@@ -11,13 +11,9 @@ export default function Envelope() {
         <div className="fade-up rounded-2xl bg-[#fffdf8] px-7 py-7 text-left shadow-[0_18px_40px_rgba(180,120,90,0.18)]">
           <p className="font-script text-3xl text-rose-500">Dear Manavi,</p>
           <p className="mt-4 text-sm italic leading-relaxed text-[#5f3a46] sm:text-base">
-            On your special day, may every candle you blow out carry a wish that
-            comes true. You deserve all the joy, laughter, and little miracles in
-            the world.
-          </p>
-          <p className="mt-4 text-sm leading-relaxed text-[#5f3a46] sm:text-base">
-            Here&apos;s to another year of your wonderful light — may it keep
-            shining on everyone lucky enough to be around you.
+            Happy birthday, Manavi! 🎂 So grateful to have a friend like you.
+            Stay happy, keep smiling — here&apos;s to another year of fun and
+            laughter together!
           </p>
           <p className="mt-6 text-right font-script text-2xl text-rose-500">
             With love, Kanna 🤍

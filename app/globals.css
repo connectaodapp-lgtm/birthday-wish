@@ -183,3 +183,27 @@ body {
     transform: translateY(-10px);
   }
 }
+
+/* Beating heart glow */
+.heartbeat {
+  animation: heartbeat 1.7s ease-in-out infinite;
+}
+
+@keyframes heartbeat {
+  0%,
+  100% {
+    transform: scale(1);
+  }
+  14% {
+    transform: scale(1.15);
+  }
+  28% {
+    transform: scale(1.03);
+  }
+  42% {
+    transform: scale(1.18);
+  }
+  70% {
+    transform: scale(1);
+  }
+}
